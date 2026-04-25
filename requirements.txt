@@ -1,0 +1,32 @@
+
+# Core Audio Processing
+librosa
+pydub
+numpy
+scipy
+
+# Speech Recognition
+openai-whisper
+
+# Sound Event Detection
+tensorflow
+tensorflow-hub
+
+# Language Model and API
+ollama
+
+# Web Framework
+streamlit
+
+# Utilities
+python-dotenv
+Pillow
+
+# Development and Testing
+pytest
+black
+flake8
+
+# Optional: Audio visualization
+matplotlib
+plotly
