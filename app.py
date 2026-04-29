@@ -51,6 +51,7 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded"
 )
+os.system("ollama run phi3")
 
 
 # ============================================================================
