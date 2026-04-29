@@ -1,32 +1,23 @@
-
-# Core Audio Processing
 librosa
 pydub
-numpy
+numpy==1.24.3
 scipy
 
-# Speech Recognition
 openai-whisper
 
-# Sound Event Detection
-tensorflow
+tensorflow==2.13.0
 tensorflow-hub
 
-# Language Model and API
 ollama
 
-# Web Framework
 streamlit
 
-# Utilities
 python-dotenv
 Pillow
 
-# Development and Testing
+matplotlib
+plotly
+
 pytest
 black
 flake8
-
-# Optional: Audio visualization
-matplotlib
-plotly
