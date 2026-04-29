@@ -21,3 +21,6 @@ plotly
 pytest
 black
 flake8
+
+setuptools
+wheel
